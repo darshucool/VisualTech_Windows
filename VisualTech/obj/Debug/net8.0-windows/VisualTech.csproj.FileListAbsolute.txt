@@ -1,0 +1,137 @@
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\bin\Debug\net8.0-windows\VisualTech.DataAccess.deps.json
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\bin\Debug\net8.0-windows\VisualTech.DataAccess.runtimeconfig.json
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\bin\Debug\net8.0-windows\VisualTech.Domain.deps.json
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\bin\Debug\net8.0-windows\VisualTech.Domain.runtimeconfig.json
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\bin\Debug\net8.0-windows\VisualTech.Domain.exe
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\bin\Debug\net8.0-windows\VisualTech.DataAccess.exe
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\bin\Debug\net8.0-windows\VisualTech.exe
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\bin\Debug\net8.0-windows\VisualTech.dll.config
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\bin\Debug\net8.0-windows\VisualTech.deps.json
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\bin\Debug\net8.0-windows\VisualTech.runtimeconfig.json
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\bin\Debug\net8.0-windows\VisualTech.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\bin\Debug\net8.0-windows\VisualTech.pdb
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\bin\Debug\net8.0-windows\System.Configuration.Abstractions.NetStandard.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\bin\Debug\net8.0-windows\VisualTech.DataAccess.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\bin\Debug\net8.0-windows\VisualTech.Domain.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\bin\Debug\net8.0-windows\VisualTech.DataAccess.pdb
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\bin\Debug\net8.0-windows\VisualTech.Domain.pdb
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\obj\Debug\net8.0-windows\VisualTech.csproj.AssemblyReference.cache
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\obj\Debug\net8.0-windows\VisualTech.frmCategory.resources
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\obj\Debug\net8.0-windows\VisualTech.frmDashboard.resources
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\obj\Debug\net8.0-windows\VisualTech.Properties.Resources.resources
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\obj\Debug\net8.0-windows\VisualTech.csproj.GenerateResource.cache
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\obj\Debug\net8.0-windows\VisualTech.GeneratedMSBuildEditorConfig.editorconfig
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\obj\Debug\net8.0-windows\VisualTech.AssemblyInfoInputs.cache
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\obj\Debug\net8.0-windows\VisualTech.AssemblyInfo.cs
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\obj\Debug\net8.0-windows\VisualTech.csproj.CoreCompileInputs.cache
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\obj\Debug\net8.0-windows\VisualTech.csproj.CopyComplete
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\obj\Debug\net8.0-windows\VisualTech.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\obj\Debug\net8.0-windows\refint\VisualTech.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\obj\Debug\net8.0-windows\VisualTech.pdb
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\obj\Debug\net8.0-windows\VisualTech.genruntimeconfig.cache
+C:\darshaka\VisualCCTV NEW\VisualTech\WinFormsApp1\obj\Debug\net8.0-windows\ref\VisualTech.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\bin\Debug\net8.0-windows\VisualTech.DataAccess.deps.json
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\bin\Debug\net8.0-windows\VisualTech.DataAccess.runtimeconfig.json
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\bin\Debug\net8.0-windows\VisualTech.Domain.deps.json
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\bin\Debug\net8.0-windows\VisualTech.Domain.runtimeconfig.json
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\bin\Debug\net8.0-windows\VisualTech.Domain.exe
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\bin\Debug\net8.0-windows\VisualTech.DataAccess.exe
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\bin\Debug\net8.0-windows\VisualTech.exe
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\bin\Debug\net8.0-windows\App.config
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\bin\Debug\net8.0-windows\VisualTech.dll.config
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\bin\Debug\net8.0-windows\VisualTech.deps.json
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\bin\Debug\net8.0-windows\VisualTech.runtimeconfig.json
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\bin\Debug\net8.0-windows\VisualTech.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\bin\Debug\net8.0-windows\VisualTech.pdb
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\bin\Debug\net8.0-windows\System.Configuration.Abstractions.NetStandard.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\bin\Debug\net8.0-windows\VisualTech.DataAccess.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\bin\Debug\net8.0-windows\VisualTech.Domain.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\bin\Debug\net8.0-windows\VisualTech.DataAccess.pdb
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\bin\Debug\net8.0-windows\VisualTech.Domain.pdb
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\obj\Debug\net8.0-windows\VisualTech.csproj.AssemblyReference.cache
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\obj\Debug\net8.0-windows\VisualTech.frmCategory.resources
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\obj\Debug\net8.0-windows\VisualTech.frmCustomer.resources
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\obj\Debug\net8.0-windows\VisualTech.frmDashboard.resources
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\obj\Debug\net8.0-windows\VisualTech.frmProduct.resources
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\obj\Debug\net8.0-windows\VisualTech.frmSubCategory.resources
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\obj\Debug\net8.0-windows\VisualTech.Properties.Resources.resources
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\obj\Debug\net8.0-windows\VisualTech.csproj.GenerateResource.cache
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\obj\Debug\net8.0-windows\VisualTech.GeneratedMSBuildEditorConfig.editorconfig
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\obj\Debug\net8.0-windows\VisualTech.AssemblyInfoInputs.cache
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\obj\Debug\net8.0-windows\VisualTech.AssemblyInfo.cs
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\obj\Debug\net8.0-windows\VisualTech.csproj.CoreCompileInputs.cache
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\obj\Debug\net8.0-windows\VisualTech.csproj.Up2Date
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\obj\Debug\net8.0-windows\VisualTech.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\obj\Debug\net8.0-windows\refint\VisualTech.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\obj\Debug\net8.0-windows\VisualTech.pdb
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\obj\Debug\net8.0-windows\VisualTech.genruntimeconfig.cache
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\obj\Debug\net8.0-windows\ref\VisualTech.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech\obj\Debug\net8.0-windows\VisualTech.Invoice.resources
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\bin\Debug\net8.0-windows\VisualTech.DataAccess.deps.json
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\bin\Debug\net8.0-windows\VisualTech.DataAccess.runtimeconfig.json
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\bin\Debug\net8.0-windows\VisualTech.Domain.deps.json
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\bin\Debug\net8.0-windows\VisualTech.Domain.runtimeconfig.json
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\bin\Debug\net8.0-windows\VisualTech.Domain.exe
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\bin\Debug\net8.0-windows\VisualTech.DataAccess.exe
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\bin\Debug\net8.0-windows\VisualTech.exe
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\bin\Debug\net8.0-windows\App.config
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\bin\Debug\net8.0-windows\VisualTech.dll.config
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\bin\Debug\net8.0-windows\VisualTech.deps.json
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\bin\Debug\net8.0-windows\VisualTech.runtimeconfig.json
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\bin\Debug\net8.0-windows\VisualTech.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\bin\Debug\net8.0-windows\VisualTech.pdb
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\bin\Debug\net8.0-windows\System.Configuration.Abstractions.NetStandard.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\bin\Debug\net8.0-windows\VisualTech.DataAccess.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\bin\Debug\net8.0-windows\VisualTech.Domain.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\bin\Debug\net8.0-windows\VisualTech.DataAccess.pdb
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\bin\Debug\net8.0-windows\VisualTech.Domain.pdb
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\obj\Debug\net8.0-windows\VisualTech.csproj.AssemblyReference.cache
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\obj\Debug\net8.0-windows\VisualTech.frmCategory.resources
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\obj\Debug\net8.0-windows\VisualTech.frmCustomer.resources
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\obj\Debug\net8.0-windows\VisualTech.frmDashboard.resources
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\obj\Debug\net8.0-windows\VisualTech.frmProduct.resources
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\obj\Debug\net8.0-windows\VisualTech.frmSubCategory.resources
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\obj\Debug\net8.0-windows\VisualTech.Invoice.resources
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\obj\Debug\net8.0-windows\VisualTech.Properties.Resources.resources
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\obj\Debug\net8.0-windows\VisualTech.csproj.GenerateResource.cache
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\obj\Debug\net8.0-windows\VisualTech.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\obj\Debug\net8.0-windows\VisualTech.AssemblyInfoInputs.cache
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\obj\Debug\net8.0-windows\VisualTech.AssemblyInfo.cs
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\obj\Debug\net8.0-windows\VisualTech.csproj.CoreCompileInputs.cache
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\obj\Debug\net8.0-windows\VisualTech.csproj.Up2Date
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\obj\Debug\net8.0-windows\VisualTech.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\obj\Debug\net8.0-windows\refint\VisualTech.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\obj\Debug\net8.0-windows\VisualTech.pdb
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\obj\Debug\net8.0-windows\VisualTech.genruntimeconfig.cache
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\obj\Debug\net8.0-windows\ref\VisualTech.dll

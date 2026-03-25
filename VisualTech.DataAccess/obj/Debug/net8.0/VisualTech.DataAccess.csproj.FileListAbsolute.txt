@@ -1,0 +1,66 @@
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.DataAccess\bin\Debug\net8.0\VisualTech.Domain.deps.json
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.DataAccess\bin\Debug\net8.0\VisualTech.Domain.runtimeconfig.json
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.DataAccess\bin\Debug\net8.0\VisualTech.Domain.exe
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.DataAccess\bin\Debug\net8.0\VisualTech.DataAccess.exe
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.DataAccess\bin\Debug\net8.0\VisualTech.DataAccess.deps.json
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.DataAccess\bin\Debug\net8.0\VisualTech.DataAccess.runtimeconfig.json
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.DataAccess\bin\Debug\net8.0\VisualTech.DataAccess.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.DataAccess\bin\Debug\net8.0\VisualTech.DataAccess.pdb
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.DataAccess\bin\Debug\net8.0\System.Configuration.Abstractions.NetStandard.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.DataAccess\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.DataAccess\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.DataAccess\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.DataAccess\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.DataAccess\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.DataAccess\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.DataAccess\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.DataAccess\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.DataAccess\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.DataAccess\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.DataAccess\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.DataAccess\bin\Debug\net8.0\VisualTech.Domain.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.DataAccess\bin\Debug\net8.0\VisualTech.Domain.pdb
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.DataAccess\obj\Debug\net8.0\VisualTech.DataAccess.csproj.AssemblyReference.cache
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.DataAccess\obj\Debug\net8.0\VisualTech.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.DataAccess\obj\Debug\net8.0\VisualTech.DataAccess.AssemblyInfoInputs.cache
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.DataAccess\obj\Debug\net8.0\VisualTech.DataAccess.AssemblyInfo.cs
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.DataAccess\obj\Debug\net8.0\VisualTech.DataAccess.csproj.CoreCompileInputs.cache
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.DataAccess\obj\Debug\net8.0\VisualTe.E72571B2.Up2Date
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.DataAccess\obj\Debug\net8.0\VisualTech.DataAccess.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.DataAccess\obj\Debug\net8.0\refint\VisualTech.DataAccess.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.DataAccess\obj\Debug\net8.0\VisualTech.DataAccess.pdb
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.DataAccess\obj\Debug\net8.0\VisualTech.DataAccess.genruntimeconfig.cache
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.DataAccess\obj\Debug\net8.0\ref\VisualTech.DataAccess.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\bin\Debug\net8.0\VisualTech.Domain.deps.json
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\bin\Debug\net8.0\VisualTech.Domain.runtimeconfig.json
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\bin\Debug\net8.0\VisualTech.Domain.exe
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\bin\Debug\net8.0\VisualTech.DataAccess.exe
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\bin\Debug\net8.0\VisualTech.DataAccess.deps.json
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\bin\Debug\net8.0\VisualTech.DataAccess.runtimeconfig.json
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\bin\Debug\net8.0\VisualTech.DataAccess.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\bin\Debug\net8.0\VisualTech.DataAccess.pdb
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\bin\Debug\net8.0\System.Configuration.Abstractions.NetStandard.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\bin\Debug\net8.0\VisualTech.Domain.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\bin\Debug\net8.0\VisualTech.Domain.pdb
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\obj\Debug\net8.0\VisualTech.DataAccess.csproj.AssemblyReference.cache
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\obj\Debug\net8.0\VisualTech.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\obj\Debug\net8.0\VisualTech.DataAccess.AssemblyInfoInputs.cache
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\obj\Debug\net8.0\VisualTech.DataAccess.AssemblyInfo.cs
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\obj\Debug\net8.0\VisualTech.DataAccess.csproj.CoreCompileInputs.cache
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\obj\Debug\net8.0\VisualTe.E72571B2.Up2Date
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\obj\Debug\net8.0\VisualTech.DataAccess.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\obj\Debug\net8.0\refint\VisualTech.DataAccess.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\obj\Debug\net8.0\VisualTech.DataAccess.pdb
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\obj\Debug\net8.0\VisualTech.DataAccess.genruntimeconfig.cache
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\obj\Debug\net8.0\ref\VisualTech.DataAccess.dll

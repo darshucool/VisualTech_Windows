@@ -1,0 +1,28 @@
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.Domain\bin\Debug\net8.0\VisualTech.Domain.exe
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.Domain\bin\Debug\net8.0\VisualTech.Domain.deps.json
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.Domain\bin\Debug\net8.0\VisualTech.Domain.runtimeconfig.json
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.Domain\bin\Debug\net8.0\VisualTech.Domain.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.Domain\bin\Debug\net8.0\VisualTech.Domain.pdb
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.Domain\obj\Debug\net8.0\VisualTech.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.Domain\obj\Debug\net8.0\VisualTech.Domain.AssemblyInfoInputs.cache
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.Domain\obj\Debug\net8.0\VisualTech.Domain.AssemblyInfo.cs
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.Domain\obj\Debug\net8.0\VisualTech.Domain.csproj.CoreCompileInputs.cache
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.Domain\obj\Debug\net8.0\VisualTech.Domain.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.Domain\obj\Debug\net8.0\refint\VisualTech.Domain.dll
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.Domain\obj\Debug\net8.0\VisualTech.Domain.pdb
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.Domain\obj\Debug\net8.0\VisualTech.Domain.genruntimeconfig.cache
+C:\darshaka\VisualCCTV NEW\VisualTech\VisualTech.Domain\obj\Debug\net8.0\ref\VisualTech.Domain.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.Domain\bin\Debug\net8.0\VisualTech.Domain.exe
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.Domain\bin\Debug\net8.0\VisualTech.Domain.deps.json
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.Domain\bin\Debug\net8.0\VisualTech.Domain.runtimeconfig.json
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.Domain\bin\Debug\net8.0\VisualTech.Domain.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.Domain\bin\Debug\net8.0\VisualTech.Domain.pdb
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.Domain\obj\Debug\net8.0\VisualTech.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.Domain\obj\Debug\net8.0\VisualTech.Domain.AssemblyInfoInputs.cache
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.Domain\obj\Debug\net8.0\VisualTech.Domain.AssemblyInfo.cs
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.Domain\obj\Debug\net8.0\VisualTech.Domain.csproj.CoreCompileInputs.cache
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.Domain\obj\Debug\net8.0\VisualTech.Domain.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.Domain\obj\Debug\net8.0\refint\VisualTech.Domain.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.Domain\obj\Debug\net8.0\VisualTech.Domain.pdb
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.Domain\obj\Debug\net8.0\VisualTech.Domain.genruntimeconfig.cache
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.Domain\obj\Debug\net8.0\ref\VisualTech.Domain.dll

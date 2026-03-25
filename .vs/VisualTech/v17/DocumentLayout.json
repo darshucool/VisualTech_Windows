@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\darshaka\\VisualCCTV NEW\\VisualTech\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|c:\\darshaka\\visualcctv new\\visualtech\\visualtech\\invoice.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|solutionrelative:visualtech\\invoice.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|c:\\darshaka\\visualcctv new\\visualtech\\visualtech\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|solutionrelative:visualtech\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|c:\\darshaka\\visualcctv new\\visualtech\\visualtech\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|solutionrelative:visualtech\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\darshaka\\VisualCCTV NEW\\VisualTech\\VisualTech\\Invoice.cs",
+              "RelativeDocumentMoniker": "VisualTech\\Invoice.cs",
+              "ToolTip": "C:\\darshaka\\VisualCCTV NEW\\VisualTech\\VisualTech\\Invoice.cs",
+              "RelativeToolTip": "VisualTech\\Invoice.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwC8AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T10:45:40.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Invoice.cs [Design]",
+              "DocumentMoniker": "C:\\darshaka\\VisualCCTV NEW\\VisualTech\\VisualTech\\Invoice.cs",
+              "RelativeDocumentMoniker": "VisualTech\\Invoice.cs",
+              "ToolTip": "C:\\darshaka\\VisualCCTV NEW\\VisualTech\\VisualTech\\Invoice.cs [Design]",
+              "RelativeToolTip": "VisualTech\\Invoice.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T10:45:36.063Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Invoice.Designer.cs",
+              "DocumentMoniker": "C:\\darshaka\\VisualCCTV NEW\\VisualTech\\VisualTech\\Invoice.Designer.cs",
+              "RelativeDocumentMoniker": "VisualTech\\Invoice.Designer.cs",
+              "ToolTip": "C:\\darshaka\\VisualCCTV NEW\\VisualTech\\VisualTech\\Invoice.Designer.cs",
+              "RelativeToolTip": "VisualTech\\Invoice.Designer.cs",
+              "ViewState": "AgIAAO4BAAAAAAAAAAAiwP4BAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T10:38:01.783Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
