@@ -8,14 +8,11 @@ namespace VisualTech.Domain
 {
     public class ProductCategoryCombo
     {
-        public int UId { get; set; }                 // SubCategory UId
-        public int MainCategoryUId { get; set; }     // Parent Category UId
+        public int UId { get; set; }
+        public int? MainCategoryUId { get; set; }
         public string MainCategory { get; set; }
         public string SubCategory { get; set; }
-
-        public string DisplayName
-        {
-            get { return MainCategory + " - " + SubCategory; }
-        }
+        public string DisplayName { get; set; }
+        public string CategoryType { get; set; }
     }
 }

@@ -1,0 +1,15 @@
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.Domain\bin\Debug\net6.0\VisualTech.Domain.exe
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.Domain\bin\Debug\net6.0\VisualTech.Domain.deps.json
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.Domain\bin\Debug\net6.0\VisualTech.Domain.runtimeconfig.json
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.Domain\bin\Debug\net6.0\VisualTech.Domain.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.Domain\bin\Debug\net6.0\VisualTech.Domain.pdb
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.Domain\obj\Debug\net6.0\VisualTech.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.Domain\obj\Debug\net6.0\VisualTech.Domain.AssemblyInfoInputs.cache
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.Domain\obj\Debug\net6.0\VisualTech.Domain.AssemblyInfo.cs
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.Domain\obj\Debug\net6.0\VisualTech.Domain.csproj.CoreCompileInputs.cache
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.Domain\obj\Debug\net6.0\VisualTech.Domain.sourcelink.json
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.Domain\obj\Debug\net6.0\VisualTech.Domain.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.Domain\obj\Debug\net6.0\refint\VisualTech.Domain.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.Domain\obj\Debug\net6.0\VisualTech.Domain.pdb
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.Domain\obj\Debug\net6.0\VisualTech.Domain.genruntimeconfig.cache
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.Domain\obj\Debug\net6.0\ref\VisualTech.Domain.dll

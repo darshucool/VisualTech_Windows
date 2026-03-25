@@ -2,11 +2,15 @@
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>net8.0-windows</TargetFramework>
+    <TargetFramework>net8.0-windows7.0</TargetFramework>
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ReportViewerCore.WinForms" Version="15.1.33" />
+  </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\VisualTech.DataAccess\VisualTech.DataAccess.csproj" />
@@ -14,6 +18,16 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Compile Update="DataSet\InvoiceDetail.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>InvoiceDetail.xsd</DependentUpon>
+    </Compile>
+    <Compile Update="DataSet\InvoiceHeader.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>InvoiceHeader.xsd</DependentUpon>
+    </Compile>
     <Compile Update="frmCustomer.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -40,6 +54,17 @@
   <ItemGroup>
     <None Update="App.config">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="DataSet\InvoiceDetail.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>InvoiceDetail.Designer.cs</LastGenOutput>
+    </None>
+    <None Update="DataSet\InvoiceHeader.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>InvoiceHeader.Designer.cs</LastGenOutput>
+    </None>
+    <None Update="RDLC\Report1.rdlc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>
 

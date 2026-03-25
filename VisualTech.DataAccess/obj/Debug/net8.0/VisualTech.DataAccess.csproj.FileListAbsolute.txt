@@ -58,6 +58,7 @@ D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\obj\Debug\ne
 D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\obj\Debug\net8.0\VisualTech.DataAccess.AssemblyInfoInputs.cache
 D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\obj\Debug\net8.0\VisualTech.DataAccess.AssemblyInfo.cs
 D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\obj\Debug\net8.0\VisualTech.DataAccess.csproj.CoreCompileInputs.cache
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\obj\Debug\net8.0\VisualTech.DataAccess.sourcelink.json
 D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\obj\Debug\net8.0\VisualTe.E72571B2.Up2Date
 D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\obj\Debug\net8.0\VisualTech.DataAccess.dll
 D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.DataAccess\obj\Debug\net8.0\refint\VisualTech.DataAccess.dll

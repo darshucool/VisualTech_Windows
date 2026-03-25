@@ -21,6 +21,7 @@ D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.Domain\obj\Debug\net8.0
 D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.Domain\obj\Debug\net8.0\VisualTech.Domain.AssemblyInfoInputs.cache
 D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.Domain\obj\Debug\net8.0\VisualTech.Domain.AssemblyInfo.cs
 D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.Domain\obj\Debug\net8.0\VisualTech.Domain.csproj.CoreCompileInputs.cache
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.Domain\obj\Debug\net8.0\VisualTech.Domain.sourcelink.json
 D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.Domain\obj\Debug\net8.0\VisualTech.Domain.dll
 D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.Domain\obj\Debug\net8.0\refint\VisualTech.Domain.dll
 D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech.Domain\obj\Debug\net8.0\VisualTech.Domain.pdb

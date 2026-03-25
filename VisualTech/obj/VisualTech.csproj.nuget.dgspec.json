@@ -170,7 +170,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0-windows"
+          "net8.0-windows7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -178,7 +178,7 @@
         },
         "frameworks": {
           "net8.0-windows7.0": {
-            "targetAlias": "net8.0-windows",
+            "targetAlias": "net8.0-windows7.0",
             "projectReferences": {
               "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech.DataAccess\\VisualTech.DataAccess.csproj": {
                 "projectPath": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech.DataAccess\\VisualTech.DataAccess.csproj"
@@ -203,7 +203,13 @@
       },
       "frameworks": {
         "net8.0-windows7.0": {
-          "targetAlias": "net8.0-windows",
+          "targetAlias": "net8.0-windows7.0",
+          "dependencies": {
+            "ReportViewerCore.WinForms": {
+              "target": "Package",
+              "version": "[15.1.33, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

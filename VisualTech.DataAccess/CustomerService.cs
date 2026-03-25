@@ -254,5 +254,24 @@ namespace VisualTech.DataAccess
 
             return dataTable;
         }
+        public int UpdateCurrentBalance(int customerId, decimal newBalance, string modifiedBy)
+        {
+            string query = @"
+        UPDATE Customer
+        SET CurrentBalance = @CurrentBalance,
+            ModifiedDate = @ModifiedDate,
+            ModifiedBy = @ModifiedBy
+        WHERE UId = @UId";
+
+            SqlParameter[] parameters = new SqlParameter[]
+            {
+        new SqlParameter("@CurrentBalance", newBalance),
+        new SqlParameter("@ModifiedDate", DateTime.Now),
+        new SqlParameter("@ModifiedBy", modifiedBy),
+        new SqlParameter("@UId", customerId)
+            };
+
+            return ExecuteNonQuery(query, parameters);
+        }
     }
 }

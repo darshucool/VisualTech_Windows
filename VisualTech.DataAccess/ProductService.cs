@@ -186,30 +186,96 @@ namespace VisualTech.DataAccess
 
             return ExecuteNonQuery(query, parameters);
         }
+        public List<ProductSearchItem> SearchProductsByName(string keyword)
+        {
+            string query = @"
+        SELECT TOP 20
+            UId,
+            CategoryId,
+            Name,
+            CostPrice,
+            SellingPrice,
+            SubCatUId,
+            BrandUId,
+            MRPPrice
+        FROM Product
+        WHERE Active = 1
+          AND Name LIKE @Keyword
+        ORDER BY Name ASC";
 
+            List<ProductSearchItem> list = new List<ProductSearchItem>();
+
+            using (SqlConnection connection = new SqlConnection(_connectionString))
+            using (SqlCommand command = new SqlCommand(query, connection))
+            {
+                command.Parameters.AddWithValue("@Keyword", "%" + keyword + "%");
+                connection.Open();
+
+                using (SqlDataReader reader = command.ExecuteReader())
+                {
+                    while (reader.Read())
+                    {
+                        list.Add(new ProductSearchItem
+                        {
+                            UId = reader["UId"] == DBNull.Value ? 0 : Convert.ToInt32(reader["UId"]),
+                            CategoryId = reader["CategoryId"] == DBNull.Value ? 0 : Convert.ToInt32(reader["CategoryId"]),
+                            Name = reader["Name"] == DBNull.Value ? "" : reader["Name"].ToString(),
+                            CostPrice = reader["CostPrice"] == DBNull.Value ? 0 : Convert.ToDecimal(reader["CostPrice"]),
+                            SellingPrice = reader["SellingPrice"] == DBNull.Value ? 0 : Convert.ToDecimal(reader["SellingPrice"]),
+                            MRPPrice = reader["MRPPrice"] == DBNull.Value ? 0 : Convert.ToDecimal(reader["MRPPrice"]),
+                            SubCatUId = reader["SubCatUId"] == DBNull.Value ? (int?)null : Convert.ToInt32(reader["SubCatUId"]),
+                            BrandUId = reader["BrandUId"] == DBNull.Value ? (int?)null : Convert.ToInt32(reader["BrandUId"])
+                        });
+                    }
+                }
+            }
+
+            return list;
+        }
         public DataTable LoadDataTable(SqlParameter[] parameters = null)
         {
-            string query = "SELECT P.*,PC.Category as ProductCategory,PS.Category AS Category,B.BrandName AS Brand FROM Product AS P,ProductCategory AS PC,ProductSubCategory PS,Brand AS B WHERE P.Active='TRUE' and P.BrandUId=B.UId and P.CategoryId=PC.UId and P.SubCatUId=PS.UId";
+            string query = @"
+        SELECT 
+            P.*,
+            PC.Category AS ProductCategory,
+            PS.Category AS Category,
+            B.BrandName AS Brand
+        FROM Product AS P
+        INNER JOIN ProductCategory AS PC ON P.CategoryId = PC.UId
+        INNER JOIN ProductSubCategory AS PS ON P.SubCatUId = PS.UId
+        INNER JOIN Brand AS B ON P.BrandUId = B.UId
+        WHERE P.Active = 1";
+
+            if (parameters != null && parameters.Length > 0)
+            {
+                foreach (var param in parameters)
+                {
+                    if (param.ParameterName == "@CategoryId")
+                    {
+                        query += " AND P.CategoryId = @CategoryId";
+                    }
+                    else if (param.ParameterName == "@SubCategoryId")
+                    {
+                        query += " AND P.SubCatUId = @SubCategoryId";
+                    }
+                }
+            }
+
             DataTable dataTable = new DataTable();
 
             using (SqlConnection connection = new SqlConnection(_connectionString))
+            using (SqlCommand command = new SqlCommand(query, connection))
             {
-                using (SqlCommand command = new SqlCommand(query, connection))
+                if (parameters != null)
                 {
-                    // Add parameters if provided
-                    if (parameters != null)
-                    {
-                        command.Parameters.AddRange(parameters);
-                    }
+                    command.Parameters.AddRange(parameters);
+                }
 
-                    // Open the database connection
-                    connection.Open();
+                connection.Open();
 
-                    // Use SqlDataAdapter to fill the DataTable
-                    using (SqlDataAdapter adapter = new SqlDataAdapter(command))
-                    {
-                        adapter.Fill(dataTable);
-                    }
+                using (SqlDataAdapter adapter = new SqlDataAdapter(command))
+                {
+                    adapter.Fill(dataTable);
                 }
             }
 

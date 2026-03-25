@@ -154,14 +154,27 @@ namespace VisualTech.DataAccess
         {
             string query = @"
         SELECT 
-            PSC.UId,
-            PSC.MainCategoryUId,
-            PC.Category AS MainCategory,
-            PSC.Category AS SubCategory
-        FROM ProductSubCategory PSC
-        INNER JOIN ProductCategory PC ON PC.UId = PSC.MainCategoryUId
-        WHERE PSC.Active = 1 AND PC.Active = 1
-        ORDER BY PC.Category ASC, PSC.Category ASC";
+    PC.UId,
+    NULL AS MainCategoryUId,
+    PC.Category AS MainCategory,
+    NULL AS SubCategory,
+    PC.Category AS DisplayName,
+    'MAIN' AS CategoryType
+FROM ProductCategory PC
+
+UNION ALL
+
+SELECT 
+    PSC.UId,
+    PSC.MainCategoryUId,
+    PC.Category AS MainCategory,
+    PSC.Category AS SubCategory,
+    PC.Category + ' - ' + PSC.Category AS DisplayName,
+    'SUB' AS CategoryType
+FROM ProductSubCategory PSC
+INNER JOIN ProductCategory PC ON PC.UId = PSC.MainCategoryUId
+
+ORDER BY DisplayName ASC;";
 
             List<ProductCategoryCombo> list = new List<ProductCategoryCombo>();
 
@@ -176,10 +189,14 @@ namespace VisualTech.DataAccess
                     {
                         list.Add(new ProductCategoryCombo
                         {
-                            UId = Convert.ToInt32(reader["UId"]),
-                            MainCategoryUId = Convert.ToInt32(reader["MainCategoryUId"]),
-                            MainCategory = reader["MainCategory"].ToString(),
-                            SubCategory = reader["SubCategory"].ToString()
+                            UId = reader["UId"] == DBNull.Value ? 0 : Convert.ToInt32(reader["UId"]),
+                            MainCategoryUId = reader["MainCategoryUId"] == DBNull.Value
+        ? (int?)null
+        : Convert.ToInt32(reader["MainCategoryUId"]),
+                            MainCategory = reader["MainCategory"] == DBNull.Value ? "" : reader["MainCategory"].ToString(),
+                            SubCategory = reader["SubCategory"] == DBNull.Value ? "" : reader["SubCategory"].ToString(),
+                            DisplayName = reader["DisplayName"] == DBNull.Value ? "" : reader["DisplayName"].ToString(),
+                            CategoryType = reader["CategoryType"] == DBNull.Value ? "" : reader["CategoryType"].ToString()
                         });
                     }
                 }
