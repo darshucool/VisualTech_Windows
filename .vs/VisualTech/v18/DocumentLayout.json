@@ -3,48 +3,96 @@
   "WorkspaceRootPath": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|d:\\projects\\git\\visualtech\\visualtech_windows\\visualtech\\rdlc\\report1.rdlc||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|solutionrelative:visualtech\\rdlc\\report1.rdlc||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|d:\\projects\\git\\visualtech\\visualtech_windows\\visualtech\\invoicereportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|solutionrelative:visualtech\\invoicereportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|d:\\projects\\git\\visualtech\\visualtech_windows\\visualtech\\rdlc\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
-      "RelativeMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|solutionrelative:visualtech\\rdlc\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|d:\\projects\\git\\visualtech\\visualtech_windows\\visualtech\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|solutionrelative:visualtech\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|d:\\projects\\git\\visualtech\\visualtech_windows\\visualtech\\invoicereportform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|solutionrelative:visualtech\\invoicereportform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|d:\\projects\\git\\visualtech\\visualtech_windows\\visualtech\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|solutionrelative:visualtech\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|d:\\projects\\git\\visualtech\\visualtech_windows\\visualtech\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|solutionrelative:visualtech\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\visualtech\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|solutionrelative:visualtech\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C96A642-6601-4B91-B5D0-556D9EC3126F}|VisualTech.DataAccess\\VisualTech.DataAccess.csproj|d:\\projects\\git\\visualtech\\visualtech_windows\\visualtech.dataaccess\\invoicedetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C96A642-6601-4B91-B5D0-556D9EC3126F}|VisualTech.DataAccess\\VisualTech.DataAccess.csproj|solutionrelative:visualtech.dataaccess\\invoicedetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\visualtech\\invoicereportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|solutionrelative:visualtech\\invoicereportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C96A642-6601-4B91-B5D0-556D9EC3126F}|VisualTech.DataAccess\\VisualTech.DataAccess.csproj|d:\\projects\\git\\visualtech\\visualtech_windows\\visualtech.dataaccess\\invoiceinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C96A642-6601-4B91-B5D0-556D9EC3126F}|VisualTech.DataAccess\\VisualTech.DataAccess.csproj|solutionrelative:visualtech.dataaccess\\invoiceinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C96A642-6601-4B91-B5D0-556D9EC3126F}|VisualTech.DataAccess\\VisualTech.DataAccess.csproj|d:\\projects\\git\\visualtech\\visualtech_windows\\visualtech.dataaccess\\invoicedetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C96A642-6601-4B91-B5D0-556D9EC3126F}|VisualTech.DataAccess\\VisualTech.DataAccess.csproj|solutionrelative:visualtech.dataaccess\\invoicedetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|d:\\projects\\git\\visualtech\\visualtech_windows\\visualtech\\invoicereportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|solutionrelative:visualtech\\invoicereportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|d:\\projects\\git\\visualtech\\visualtech_windows\\visualtech\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|solutionrelative:visualtech\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|d:\\projects\\git\\visualtech\\visualtech_windows\\visualtech\\frmcustomerpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|solutionrelative:visualtech\\frmcustomerpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|d:\\projects\\git\\visualtech\\visualtech_windows\\visualtech\\frmcustomerpayment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|solutionrelative:visualtech\\frmcustomerpayment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|d:\\projects\\git\\visualtech\\visualtech_windows\\visualtech\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|solutionrelative:visualtech\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\visualtech\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|solutionrelative:visualtech\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\visualtech\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|solutionrelative:visualtech\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|d:\\projects\\git\\visualtech\\visualtech_windows\\visualtech\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|solutionrelative:visualtech\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|d:\\projects\\git\\visualtech\\visualtech_windows\\visualtech\\frmcustomerpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|solutionrelative:visualtech\\frmcustomerpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|d:\\projects\\git\\visualtech\\visualtech_windows\\visualtech\\invoiceitemeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|solutionrelative:visualtech\\invoiceitemeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|d:\\projects\\git\\visualtech\\visualtech_windows\\visualtech\\frmsubcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|solutionrelative:visualtech\\frmsubcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|d:\\projects\\git\\visualtech\\visualtech_windows\\visualtech\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|solutionrelative:visualtech\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C96A642-6601-4B91-B5D0-556D9EC3126F}|VisualTech.DataAccess\\VisualTech.DataAccess.csproj|d:\\projects\\git\\visualtech\\visualtech_windows\\visualtech.dataaccess\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C96A642-6601-4B91-B5D0-556D9EC3126F}|VisualTech.DataAccess\\VisualTech.DataAccess.csproj|solutionrelative:visualtech.dataaccess\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|d:\\projects\\git\\visualtech\\visualtech_windows\\visualtech\\visualtech.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|solutionrelative:visualtech\\visualtech.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|d:\\projects\\git\\visualtech\\visualtech_windows\\visualtech\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|solutionrelative:visualtech\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|d:\\projects\\git\\visualtech\\visualtech_windows\\visualtech\\rdlc\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|solutionrelative:visualtech\\rdlc\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED223C64-95EF-414E-A0B2-9DFD02F12814}|VisualTech.Domain\\VisualTech.Domain.csproj|d:\\projects\\git\\visualtech\\visualtech_windows\\visualtech.domain\\invoiceheaderreportmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED223C64-95EF-414E-A0B2-9DFD02F12814}|VisualTech.Domain\\VisualTech.Domain.csproj|solutionrelative:visualtech.domain\\invoiceheaderreportmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|d:\\projects\\git\\visualtech\\visualtech_windows\\visualtech\\invoicereportform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|solutionrelative:visualtech\\invoicereportform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|d:\\projects\\git\\visualtech\\visualtech_windows\\visualtech\\rdlc\\report1.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|solutionrelative:visualtech\\rdlc\\report1.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|d:\\projects\\git\\visualtech\\visualtech_windows\\visualtech\\dataset\\invoiceheader.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
@@ -61,10 +109,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{ED223C64-95EF-414E-A0B2-9DFD02F12814}|VisualTech.Domain\\VisualTech.Domain.csproj|d:\\projects\\git\\visualtech\\visualtech_windows\\visualtech.domain\\invoiceinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED223C64-95EF-414E-A0B2-9DFD02F12814}|VisualTech.Domain\\VisualTech.Domain.csproj|solutionrelative:visualtech.domain\\invoiceinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C96A642-6601-4B91-B5D0-556D9EC3126F}|VisualTech.DataAccess\\VisualTech.DataAccess.csproj|d:\\projects\\git\\visualtech\\visualtech_windows\\visualtech.dataaccess\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C96A642-6601-4B91-B5D0-556D9EC3126F}|VisualTech.DataAccess\\VisualTech.DataAccess.csproj|solutionrelative:visualtech.dataaccess\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED223C64-95EF-414E-A0B2-9DFD02F12814}|VisualTech.Domain\\VisualTech.Domain.csproj|d:\\projects\\git\\visualtech\\visualtech_windows\\visualtech.domain\\invoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,14 +135,6 @@
       "RelativeMoniker": "D:0:0:{ED223C64-95EF-414E-A0B2-9DFD02F12814}|VisualTech.Domain\\VisualTech.Domain.csproj|solutionrelative:visualtech.domain\\productcategorycombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\visualtech\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|solutionrelative:visualtech\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\visualtech\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{98FA303C-EBFB-42B5-9E48-EEF9F3CF2753}|VisualTech\\VisualTech.csproj|solutionrelative:visualtech\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7C96A642-6601-4B91-B5D0-556D9EC3126F}|VisualTech.DataAccess\\VisualTech.DataAccess.csproj|d:\\projects\\git\\visualtech\\visualtech_windows\\visualtech.dataaccess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C96A642-6601-4B91-B5D0-556D9EC3126F}|VisualTech.DataAccess\\VisualTech.DataAccess.csproj|solutionrelative:visualtech.dataaccess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -110,74 +146,269 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Report1.rdlc",
-              "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\RDLC\\Report1.rdlc",
-              "RelativeDocumentMoniker": "VisualTech\\RDLC\\Report1.rdlc",
-              "ToolTip": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\RDLC\\Report1.rdlc",
-              "RelativeToolTip": "VisualTech\\RDLC\\Report1.rdlc",
-              "ViewState": "AgIAAG8BAAAAAAAAAAAiwIcBAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
-              "WhenOpened": "2026-03-25T18:42:40.433Z",
+              "DocumentIndex": 3,
+              "Title": "InvoiceDetailService.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech.DataAccess\\InvoiceDetailService.cs",
+              "RelativeDocumentMoniker": "VisualTech.DataAccess\\InvoiceDetailService.cs",
+              "ToolTip": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech.DataAccess\\InvoiceDetailService.cs",
+              "RelativeToolTip": "VisualTech.DataAccess\\InvoiceDetailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T04:30:29.628Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "InvoiceReportForm.cs",
-              "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\InvoiceReportForm.cs",
-              "RelativeDocumentMoniker": "VisualTech\\InvoiceReportForm.cs",
-              "ToolTip": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\InvoiceReportForm.cs",
-              "RelativeToolTip": "VisualTech\\InvoiceReportForm.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAuwEEAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T17:44:35.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Invoice.cs",
+              "Title": "Invoice.cs [Design]",
               "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\Invoice.cs",
               "RelativeDocumentMoniker": "VisualTech\\Invoice.cs",
-              "ToolTip": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\Invoice.cs",
-              "RelativeToolTip": "VisualTech\\Invoice.cs",
-              "ViewState": "AgIAAEICAAAAAAAAAAAawE4CAAAgAAAAAAAAAA==",
+              "ToolTip": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\Invoice.cs [Design]",
+              "RelativeToolTip": "VisualTech\\Invoice.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T16:40:17.785Z",
+              "WhenOpened": "2026-03-25T17:11:06.185Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmCustomerPayment.Designer.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\frmCustomerPayment.Designer.cs",
+              "RelativeDocumentMoniker": "VisualTech\\frmCustomerPayment.Designer.cs",
+              "ToolTip": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\frmCustomerPayment.Designer.cs",
+              "RelativeToolTip": "VisualTech\\frmCustomerPayment.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T03:42:39.6Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "InvoiceReportForm.cs [Design]",
               "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\InvoiceReportForm.cs",
               "RelativeDocumentMoniker": "VisualTech\\InvoiceReportForm.cs",
               "ToolTip": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\InvoiceReportForm.cs [Design]",
               "RelativeToolTip": "VisualTech\\InvoiceReportForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T17:20:49.137Z",
+              "WhenOpened": "2026-03-26T14:46:09.101Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\Invoice.cs",
+              "RelativeDocumentMoniker": "VisualTech\\Invoice.cs",
+              "ToolTip": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\Invoice.cs",
+              "RelativeToolTip": "VisualTech\\Invoice.cs",
+              "ViewState": "AgIAAHsCAAAAAAAAAAAIwI0CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T16:40:17.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\frmDashboard.cs",
+              "RelativeDocumentMoniker": "VisualTech\\frmDashboard.cs",
+              "ToolTip": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\frmDashboard.cs [Design]",
+              "RelativeToolTip": "VisualTech\\frmDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T03:32:19.417Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvoiceReportForm.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\InvoiceReportForm.cs",
+              "RelativeDocumentMoniker": "VisualTech\\InvoiceReportForm.cs",
+              "ToolTip": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\InvoiceReportForm.cs",
+              "RelativeToolTip": "VisualTech\\InvoiceReportForm.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAlwCgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T17:44:35.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmDashboard.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\frmDashboard.cs",
+              "RelativeDocumentMoniker": "VisualTech\\frmDashboard.cs",
+              "ToolTip": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\frmDashboard.cs",
+              "RelativeToolTip": "VisualTech\\frmDashboard.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAtwEcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T03:32:24.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmCustomerPayment.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\frmCustomerPayment.cs",
+              "RelativeDocumentMoniker": "VisualTech\\frmCustomerPayment.cs",
+              "ToolTip": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\frmCustomerPayment.cs",
+              "RelativeToolTip": "VisualTech\\frmCustomerPayment.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAAAIQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T03:03:52.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\Form1.cs",
+              "RelativeDocumentMoniker": "VisualTech\\Form1.cs",
+              "ToolTip": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\Form1.cs [Design]",
+              "RelativeToolTip": "VisualTech\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T03:31:57.954Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmCustomerPayment.cs [Design]",
+              "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\frmCustomerPayment.cs",
+              "RelativeDocumentMoniker": "VisualTech\\frmCustomerPayment.cs",
+              "ToolTip": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\frmCustomerPayment.cs [Design]",
+              "RelativeToolTip": "VisualTech\\frmCustomerPayment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T03:01:14.067Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmCategory.cs [Design]",
+              "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\frmCategory.cs",
+              "RelativeDocumentMoniker": "VisualTech\\frmCategory.cs",
+              "ToolTip": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\frmCategory.cs [Design]",
+              "RelativeToolTip": "VisualTech\\frmCategory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:17:51.27Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmCustomer.cs [Design]",
+              "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\frmCustomer.cs",
+              "RelativeDocumentMoniker": "VisualTech\\frmCustomer.cs",
+              "ToolTip": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\frmCustomer.cs [Design]",
+              "RelativeToolTip": "VisualTech\\frmCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:17:51.952Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InvoiceItemEditForm.cs [Design]",
+              "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\InvoiceItemEditForm.cs",
+              "RelativeDocumentMoniker": "VisualTech\\InvoiceItemEditForm.cs",
+              "ToolTip": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\InvoiceItemEditForm.cs [Design]",
+              "RelativeToolTip": "VisualTech\\InvoiceItemEditForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T03:00:55.369Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmSubCategory.cs [Design]",
+              "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\frmSubCategory.cs",
+              "RelativeDocumentMoniker": "VisualTech\\frmSubCategory.cs",
+              "ToolTip": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\frmSubCategory.cs [Design]",
+              "RelativeToolTip": "VisualTech\\frmSubCategory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T03:00:53.927Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmProduct.cs [Design]",
+              "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\frmProduct.cs",
+              "RelativeDocumentMoniker": "VisualTech\\frmProduct.cs",
+              "ToolTip": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\frmProduct.cs [Design]",
+              "RelativeToolTip": "VisualTech\\frmProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T03:00:52.709Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech.DataAccess\\CustomerService.cs",
+              "RelativeDocumentMoniker": "VisualTech.DataAccess\\CustomerService.cs",
+              "ToolTip": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech.DataAccess\\CustomerService.cs",
+              "RelativeToolTip": "VisualTech.DataAccess\\CustomerService.cs",
+              "ViewState": "AgIAAP0AAAAAAAAAAIAwwAABAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T08:12:42.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\App.config",
+              "RelativeDocumentMoniker": "VisualTech\\App.config",
+              "ToolTip": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\App.config",
+              "RelativeToolTip": "VisualTech\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-25T07:07:58.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VisualTech",
+              "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\VisualTech.csproj",
+              "RelativeDocumentMoniker": "VisualTech\\VisualTech.csproj",
+              "ToolTip": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\VisualTech.csproj",
+              "RelativeToolTip": "VisualTech\\VisualTech.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-02T14:17:29.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Report1.rdlc [Design]",
               "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\RDLC\\Report1.rdlc",
               "RelativeDocumentMoniker": "VisualTech\\RDLC\\Report1.rdlc",
               "ToolTip": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\RDLC\\Report1.rdlc [Design]",
               "RelativeToolTip": "VisualTech\\RDLC\\Report1.rdlc [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
-              "WhenOpened": "2026-03-25T17:40:11.581Z",
+              "WhenOpened": "2026-04-02T11:16:37.334Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 20,
+              "Title": "InvoiceHeaderReportModel.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech.Domain\\InvoiceHeaderReportModel.cs",
+              "RelativeDocumentMoniker": "VisualTech.Domain\\InvoiceHeaderReportModel.cs",
+              "ToolTip": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech.Domain\\InvoiceHeaderReportModel.cs",
+              "RelativeToolTip": "VisualTech.Domain\\InvoiceHeaderReportModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA6wBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T13:31:57.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "InvoiceReportForm.Designer.cs",
               "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\InvoiceReportForm.Designer.cs",
               "RelativeDocumentMoniker": "VisualTech\\InvoiceReportForm.Designer.cs",
@@ -190,95 +421,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "InvoiceInfoService.cs",
-              "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech.DataAccess\\InvoiceInfoService.cs",
-              "RelativeDocumentMoniker": "VisualTech.DataAccess\\InvoiceInfoService.cs",
-              "ToolTip": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech.DataAccess\\InvoiceInfoService.cs",
-              "RelativeToolTip": "VisualTech.DataAccess\\InvoiceInfoService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAcwC8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T17:03:46.503Z",
-              "EditorCaption": ""
+              "DocumentIndex": 22,
+              "Title": "Report1.rdlc",
+              "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\RDLC\\Report1.rdlc",
+              "RelativeDocumentMoniker": "VisualTech\\RDLC\\Report1.rdlc",
+              "ToolTip": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\RDLC\\Report1.rdlc",
+              "RelativeToolTip": "VisualTech\\RDLC\\Report1.rdlc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKEKAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2026-04-02T10:04:25.239Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "App.config",
-              "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\App.config",
-              "RelativeDocumentMoniker": "VisualTech\\App.config",
-              "ToolTip": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\App.config",
-              "RelativeToolTip": "VisualTech\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-03-25T07:07:58.412Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\Program.cs",
-              "RelativeDocumentMoniker": "VisualTech\\Program.cs",
-              "ToolTip": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\Program.cs",
-              "RelativeToolTip": "VisualTech\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T06:17:43.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Invoice.cs [Design]",
-              "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\Invoice.cs",
-              "RelativeDocumentMoniker": "VisualTech\\Invoice.cs",
-              "ToolTip": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\Invoice.cs [Design]",
-              "RelativeToolTip": "VisualTech\\Invoice.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T17:11:06.185Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "InvoiceDetailService.cs",
-              "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech.DataAccess\\InvoiceDetailService.cs",
-              "RelativeDocumentMoniker": "VisualTech.DataAccess\\InvoiceDetailService.cs",
-              "ToolTip": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech.DataAccess\\InvoiceDetailService.cs",
-              "RelativeToolTip": "VisualTech.DataAccess\\InvoiceDetailService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA2wC4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T17:04:06.167Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 23,
               "Title": "InvoiceHeader.xsd",
               "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\DataSet\\InvoiceHeader.xsd",
               "RelativeDocumentMoniker": "VisualTech\\DataSet\\InvoiceHeader.xsd",
               "ToolTip": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\DataSet\\InvoiceHeader.xsd",
               "RelativeToolTip": "VisualTech\\DataSet\\InvoiceHeader.xsd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
-              "WhenOpened": "2026-03-25T17:41:44.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T17:41:44.56Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 24,
               "Title": "InvoiceDetail.xsd",
               "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\DataSet\\InvoiceDetail.xsd",
               "RelativeDocumentMoniker": "VisualTech\\DataSet\\InvoiceDetail.xsd",
               "ToolTip": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\DataSet\\InvoiceDetail.xsd",
               "RelativeToolTip": "VisualTech\\DataSet\\InvoiceDetail.xsd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
-              "WhenOpened": "2026-03-25T17:42:03.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T17:42:03.378Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 26,
               "Title": "InvoiceInfo.cs",
               "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech.Domain\\InvoiceInfo.cs",
               "RelativeDocumentMoniker": "VisualTech.Domain\\InvoiceInfo.cs",
@@ -286,12 +463,11 @@
               "RelativeToolTip": "VisualTech.Domain\\InvoiceInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T17:13:49.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T17:13:49.226Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 25,
               "Title": "Invoice.Designer.cs",
               "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\Invoice.Designer.cs",
               "RelativeDocumentMoniker": "VisualTech\\Invoice.Designer.cs",
@@ -304,20 +480,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CustomerService.cs",
-              "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech.DataAccess\\CustomerService.cs",
-              "RelativeDocumentMoniker": "VisualTech.DataAccess\\CustomerService.cs",
-              "ToolTip": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech.DataAccess\\CustomerService.cs",
-              "RelativeToolTip": "VisualTech.DataAccess\\CustomerService.cs",
-              "ViewState": "AgIAALsAAAAAAAAAAAAiwBIBAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T08:12:42.161Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 27,
               "Title": "InvoiceDetail.cs",
               "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech.Domain\\InvoiceDetail.cs",
               "RelativeDocumentMoniker": "VisualTech.Domain\\InvoiceDetail.cs",
@@ -325,12 +488,11 @@
               "RelativeToolTip": "VisualTech.Domain\\InvoiceDetail.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAmwBkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T17:03:26.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T17:03:26.931Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 28,
               "Title": "InvoiceItemEditForm.cs",
               "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\InvoiceItemEditForm.cs",
               "RelativeDocumentMoniker": "VisualTech\\InvoiceItemEditForm.cs",
@@ -343,7 +505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 31,
               "Title": "ProductService.cs",
               "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech.DataAccess\\ProductService.cs",
               "RelativeDocumentMoniker": "VisualTech.DataAccess\\ProductService.cs",
@@ -351,12 +513,11 @@
               "RelativeToolTip": "VisualTech.DataAccess\\ProductService.cs",
               "ViewState": "AgIAAL0AAAAAAAAAAAAowOkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T08:51:35.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T08:51:35.261Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 29,
               "Title": "ProductSearchItem.cs",
               "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech.Domain\\ProductSearchItem.cs",
               "RelativeDocumentMoniker": "VisualTech.Domain\\ProductSearchItem.cs",
@@ -364,12 +525,11 @@
               "RelativeToolTip": "VisualTech.Domain\\ProductSearchItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBZwBcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T09:09:05.687Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T09:09:05.687Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 30,
               "Title": "ProductCategoryService.cs",
               "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech.DataAccess\\ProductCategoryService.cs",
               "RelativeDocumentMoniker": "VisualTech.DataAccess\\ProductCategoryService.cs",
@@ -377,24 +537,11 @@
               "RelativeToolTip": "VisualTech.DataAccess\\ProductCategoryService.cs",
               "ViewState": "AgIAALMAAAAAAAAAAAAawMcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T08:06:45.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T08:06:45.267Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "frmCustomer.cs [Design]",
-              "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\frmCustomer.cs",
-              "RelativeDocumentMoniker": "VisualTech\\frmCustomer.cs",
-              "ToolTip": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\frmCustomer.cs [Design]",
-              "RelativeToolTip": "VisualTech\\frmCustomer.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T06:17:51.952Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 32,
               "Title": "ProductCategoryCombo.cs",
               "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech.Domain\\ProductCategoryCombo.cs",
               "RelativeDocumentMoniker": "VisualTech.Domain\\ProductCategoryCombo.cs",
@@ -402,24 +549,11 @@
               "RelativeToolTip": "VisualTech.Domain\\ProductCategoryCombo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T08:12:30.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T08:12:30.006Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "frmCategory.cs [Design]",
-              "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\frmCategory.cs",
-              "RelativeDocumentMoniker": "VisualTech\\frmCategory.cs",
-              "ToolTip": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech\\frmCategory.cs [Design]",
-              "RelativeToolTip": "VisualTech\\frmCategory.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T06:17:51.27Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 33,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\PROJECTS\\GIT\\VisualTech\\VisualTech_Windows\\VisualTech.DataAccess\\Program.cs",
               "RelativeDocumentMoniker": "VisualTech.DataAccess\\Program.cs",
@@ -427,8 +561,7 @@
               "RelativeToolTip": "VisualTech.DataAccess\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T06:17:41.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T06:17:41.104Z"
             }
           ]
         }

@@ -18,8 +18,7 @@ namespace VisualTech
         public Invoice()
         {
             InitializeComponent();
-            LoadCategoriesIntoComboBox();
-            SetupInvoiceGrid();
+            
 
         }
         private void cmbCategory_SelectedIndexChanged(object sender, EventArgs e)
@@ -104,6 +103,9 @@ namespace VisualTech
         }
         private void Invoice_Load(object sender, EventArgs e)
         {
+
+            LoadCategoriesIntoComboBox();
+            SetupInvoiceGrid();
             LoadCustomers();
             LoadCategories();
             LoadProductGrid();
@@ -393,7 +395,7 @@ namespace VisualTech
                 dataGridView2.Rows.Add(
                     productId,                    // UId
                     txtWarrenty.Text.Trim(),      // Warranty
-                    txtBarcode.Text.Trim(),       // Barcode
+                    ConvertBarcodeMultilineToCsv(txtBarcode.Text),
                     txtProduct.Text.Trim(),       // ProductName
                     unitPrice.ToString("N2"),     // UnitPrice
                     qty.ToString("N2"),           // Qty
@@ -450,6 +452,7 @@ namespace VisualTech
         {
             try
             {
+                CustomerPaymentService customerPaymentService = new CustomerPaymentService();
                 if (dataGridView2.Rows.Count == 0)
                 {
                     MessageBox.Show("Please add invoice items.");
@@ -511,6 +514,8 @@ namespace VisualTech
                 CustomerService customerService = new CustomerService();
 
                 int nextInvoiceNo = invoiceInfoService.GetNextInvoiceNo();
+                int invoiceTypeId = radInvoice.Checked ? 2 : 1;
+
 
                 InvoiceInfo invoice = new InvoiceInfo
                 {
@@ -520,7 +525,7 @@ namespace VisualTech
                     Active = true,
                     CreatedDate = DateTime.Now,
                     CreatedBy = "admin",
-                    InvoiceTypeId = 1,
+                    InvoiceTypeId = invoiceTypeId,
                     InvoiceNo = nextInvoiceNo.ToString(),
                     InvoiceLine1 = "",
                     InvoiceLine2 = "",
@@ -572,6 +577,18 @@ namespace VisualTech
 
                 if (customerId > 0)
                 {
+                    if (paidAmount > 0)
+                    {
+                        CustomerPayment payment = new CustomerPayment
+                        {
+                            CustomerId = customerId,
+                            Amount = paidAmount,
+                            Date = DateTime.Now
+                        };
+
+                        customerPaymentService.Insert(payment);
+                    }
+
                     Customer customer = customerService.GetById(customerId);
 
                     if (customer != null)
@@ -597,6 +614,19 @@ namespace VisualTech
                 MessageBox.Show("Error while saving invoice: " + ex.Message);
             }
         }
+        private string ConvertBarcodeMultilineToCsv(string barcodeText)
+{
+    if (string.IsNullOrWhiteSpace(barcodeText))
+        return string.Empty;
+
+    string[] lines = barcodeText
+        .Split(new[] { "\r\n", "\n", "\r" }, StringSplitOptions.RemoveEmptyEntries)
+        .Select(x => x.Trim())
+        .Where(x => !string.IsNullOrWhiteSpace(x))
+        .ToArray();
+
+    return string.Join(",", lines);
+}
         private void ClearInvoiceForm()
         {
             cmbCustomer.SelectedIndex = -1;

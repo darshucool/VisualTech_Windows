@@ -135,3 +135,4 @@ D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\obj\Debug\net8.0-window
 D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\obj\Debug\net8.0-windows7.0\VisualTech.pdb
 D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\obj\Debug\net8.0-windows7.0\VisualTech.genruntimeconfig.cache
 D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\obj\Debug\net8.0-windows7.0\ref\VisualTech.dll
+D:\PROJECTS\GIT\VisualTech\VisualTech_Windows\VisualTech\obj\Debug\net8.0-windows7.0\VisualTech.frmCustomerPayment.resources

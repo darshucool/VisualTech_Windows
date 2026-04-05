@@ -66,5 +66,11 @@ namespace VisualTech
             Invoice frm = new Invoice();
             frm.Show();
         }
+
+        private void customerPaymentToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmCustomerPayment frm = new frmCustomerPayment();
+            frm.Show();
+        }
     }
 }

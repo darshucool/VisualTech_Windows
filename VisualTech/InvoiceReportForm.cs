@@ -1,12 +1,7 @@
 ﻿using Microsoft.Reporting.WinForms;
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.IO;
 using System.Windows.Forms;
 using VisualTech.DataAccess;
 
@@ -57,10 +52,52 @@ namespace VisualTech
             reportViewer1.LocalReport.ReportPath = reportPath;
 
             reportViewer1.LocalReport.DataSources.Add(
-                new Microsoft.Reporting.WinForms.ReportDataSource("dsInvoiceHeader", dtHeader));
+                new ReportDataSource("dsInvoiceHeader", dtHeader));
 
             reportViewer1.LocalReport.DataSources.Add(
-                new Microsoft.Reporting.WinForms.ReportDataSource("dsInvoiceDetail", dtDetails));
+                new ReportDataSource("dsInvoiceDetail", dtDetails));
+            var headerModel = invoiceInfoService.GetInvoiceHeaderModelById(_invoiceId);
+
+            string dueAmountText = "";
+            if (headerModel != null && headerModel.ShowDueAmount)
+            {
+                dueAmountText = headerModel.DueAmount.ToString("N2");
+            }
+            if (dtHeader.Rows.Count > 0)
+            {
+                DataRow row = dtHeader.Rows[0];
+
+                int invoiceTypeId = row["InvoiceTypeId"] != DBNull.Value
+                    ? Convert.ToInt32(row["InvoiceTypeId"])
+                    : 1;
+
+                decimal grandTotal = row["GrandTotal"] != DBNull.Value
+                    ? Convert.ToDecimal(row["GrandTotal"])
+                    : 0m;
+
+                decimal discount = row["Discount"] != DBNull.Value
+                    ? Convert.ToDecimal(row["Discount"])
+                    : 0m;
+
+                decimal paidAmount = row["PaidAmount"] != DBNull.Value
+                    ? Convert.ToDecimal(row["PaidAmount"])
+                    : 0m;
+
+                
+
+                string heading = invoiceTypeId == 2 ? "INVOICE" : "ESTIMATE";
+
+                ReportParameter[] parameters = new ReportParameter[]
+                {
+                    new ReportParameter("Heading", heading),
+                    new ReportParameter("GrandTotal", grandTotal.ToString("N2")),
+                    new ReportParameter("Discount", discount.ToString("N2")),
+                    new ReportParameter("PaidAmount", paidAmount.ToString("N2")),
+                    new ReportParameter("DueAmount", dueAmountText)
+                };
+
+                reportViewer1.LocalReport.SetParameters(parameters);
+            }
 
             reportViewer1.RefreshReport();
         }

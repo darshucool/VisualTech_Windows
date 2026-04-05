@@ -38,6 +38,7 @@
             customerManagementToolStripMenuItem = new ToolStripMenuItem();
             invoiceToolStripMenuItem = new ToolStripMenuItem();
             createInvoiceToolStripMenuItem = new ToolStripMenuItem();
+            customerPaymentToolStripMenuItem = new ToolStripMenuItem();
             menuStrip1.SuspendLayout();
             SuspendLayout();
             // 
@@ -89,7 +90,7 @@
             // 
             // customerToolStripMenuItem
             // 
-            customerToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { customerManagementToolStripMenuItem });
+            customerToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { customerManagementToolStripMenuItem, customerPaymentToolStripMenuItem });
             customerToolStripMenuItem.Name = "customerToolStripMenuItem";
             customerToolStripMenuItem.Size = new Size(110, 32);
             customerToolStripMenuItem.Text = "Customer";
@@ -111,9 +112,16 @@
             // createInvoiceToolStripMenuItem
             // 
             createInvoiceToolStripMenuItem.Name = "createInvoiceToolStripMenuItem";
-            createInvoiceToolStripMenuItem.Size = new Size(224, 32);
+            createInvoiceToolStripMenuItem.Size = new Size(221, 32);
             createInvoiceToolStripMenuItem.Text = "Create Invoice";
             createInvoiceToolStripMenuItem.Click += createInvoiceToolStripMenuItem_Click;
+            // 
+            // customerPaymentToolStripMenuItem
+            // 
+            customerPaymentToolStripMenuItem.Name = "customerPaymentToolStripMenuItem";
+            customerPaymentToolStripMenuItem.Size = new Size(303, 32);
+            customerPaymentToolStripMenuItem.Text = "Customer Payment";
+            customerPaymentToolStripMenuItem.Click += customerPaymentToolStripMenuItem_Click;
             // 
             // frmDashboard
             // 
@@ -145,5 +153,6 @@
         private ToolStripMenuItem customerManagementToolStripMenuItem;
         private ToolStripMenuItem invoiceToolStripMenuItem;
         private ToolStripMenuItem createInvoiceToolStripMenuItem;
+        private ToolStripMenuItem customerPaymentToolStripMenuItem;
     }
 }

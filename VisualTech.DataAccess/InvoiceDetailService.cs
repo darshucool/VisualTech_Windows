@@ -17,17 +17,21 @@ namespace VisualTech.DataAccess
         public DataTable GetInvoiceDetailsByInvoiceId(int invoiceId)
         {
             string query = @"
-        SELECT 
-            InvoiceId,
-            ProductId,
-            ItemName,
-            Warranty,
-            UnitPrice,
-            TotalPrice,
-            BarcodeDetail,
-            Qty
-        FROM InvoiceDetail
-        WHERE InvoiceId = @InvoiceId";
+    SELECT 
+        InvoiceId,
+        ProductId,
+        CASE 
+            WHEN ISNULL(BarcodeDetail, '') = '' 
+                THEN ItemName
+            ELSE ItemName + CHAR(13) + CHAR(10) + '(' + REPLACE(BarcodeDetail, ',', ', ') + ')'
+        END AS ItemName,
+        Warranty,
+        UnitPrice,
+        TotalPrice,
+        BarcodeDetail,
+        Qty
+    FROM InvoiceDetail
+    WHERE InvoiceId = @InvoiceId";
 
             DataTable dataTable = new DataTable();
 

@@ -26,7 +26,8 @@ namespace VisualTech.DataAccess
             Total,
             GrandTotal,
             CustomerName,
-            PaidAmount
+            PaidAmount,
+            InvoiceTypeId   
         FROM InvoiceInfo
         WHERE UId = @InvoiceId";
 
@@ -45,6 +46,55 @@ namespace VisualTech.DataAccess
             }
 
             return dataTable;
+        }
+        public InvoiceHeaderReportModel GetInvoiceHeaderModelById(int invoiceId)
+        {
+            string query = @"
+SELECT 
+    I.UId,
+    I.CustomerId,
+    I.InvoiceDate,
+    I.InvoiceNo,
+    I.Discount,
+    I.Total,
+    I.GrandTotal,
+    I.CustomerName,
+    I.PaidAmount,
+    I.InvoiceTypeId,
+    ISNULL(C.CurrentBalance, 0) AS DueAmount
+FROM InvoiceInfo I
+LEFT JOIN Customer C ON I.CustomerId = C.UId
+WHERE I.UId = @InvoiceId";
+
+            using (SqlConnection connection = new SqlConnection(_connectionString))
+            using (SqlCommand command = new SqlCommand(query, connection))
+            {
+                command.Parameters.AddWithValue("@InvoiceId", invoiceId);
+                connection.Open();
+
+                using (SqlDataReader reader = command.ExecuteReader())
+                {
+                    if (reader.Read())
+                    {
+                        return new InvoiceHeaderReportModel
+                        {
+                            UId = Convert.ToInt32(reader["UId"]),
+                            CustomerId = reader["CustomerId"] == DBNull.Value ? (int?)null : Convert.ToInt32(reader["CustomerId"]),
+                            InvoiceDate = Convert.ToDateTime(reader["InvoiceDate"]),
+                            InvoiceNo = Convert.ToString(reader["InvoiceNo"]),
+                            Discount = reader["Discount"] == DBNull.Value ? 0 : Convert.ToDecimal(reader["Discount"]),
+                            Total = reader["Total"] == DBNull.Value ? 0 : Convert.ToDecimal(reader["Total"]),
+                            GrandTotal = reader["GrandTotal"] == DBNull.Value ? 0 : Convert.ToDecimal(reader["GrandTotal"]),
+                            CustomerName = Convert.ToString(reader["CustomerName"]),
+                            PaidAmount = reader["PaidAmount"] == DBNull.Value ? 0 : Convert.ToDecimal(reader["PaidAmount"]),
+                            InvoiceTypeId = reader["InvoiceTypeId"] == DBNull.Value ? 0 : Convert.ToInt32(reader["InvoiceTypeId"]),
+                            DueAmount = reader["DueAmount"] == DBNull.Value ? 0 : Convert.ToDecimal(reader["DueAmount"])
+                        };
+                    }
+                }
+            }
+
+            return null;
         }
         public int Insert(InvoiceInfo invoice)
         {
